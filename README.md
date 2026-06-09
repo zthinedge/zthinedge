@@ -19,8 +19,8 @@
 </p>
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zthinedge&show_icons=true&hide_border=true&hide_rank=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zthinedge&layout=compact&hide_border=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zthinedge&theme=transparent)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zthinedge&theme=transparent)
 
 
 ## 📫 Contact
