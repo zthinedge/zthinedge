@@ -1,11 +1,10 @@
 # Hi there, I'm zthinedge
 
-专注 C++ 后端与系统方向，正在持续构建网络服务与存储内核相关项目。
+专注 C++ 后端与系统方向。
 
 ## 👨‍💻 About Me
 - 方向: C++ 后端开发 / Linux 系统编程 / 数据库内核学习
 - 风格: 偏工程化实现，重视模块边界、测试与可维护性
-- 近期: 持续迭代 `TinyRedis`，完善 AOF 与稳定性能力
 
 ## 🧰 Tech Stack
 <p>
@@ -18,10 +17,3 @@
   <img src="https://img.shields.io/badge/GDB-444444?style=flat&logo=gnu&logoColor=white" alt="GDB" height="20" />
 </p>
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zthinedge&theme=transparent)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zthinedge&theme=transparent)
-
-
-## 📫 Contact
-- 欢迎交流 C++ 后端、网络编程与数据库内核实现 
